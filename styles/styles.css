@@ -1,0 +1,44 @@
+
+    /* Палітра кольорів */
+
+:root {
+    /* --white: #FFFFFF;
+    --white2: #F5F4FA;
+    --gray: #757575;
+    --gray2: rgba(255, 255, 255, 0.6);
+    --gray3: #ECECEC;
+    --gray4: #EEEEEE;
+    --gray5: #AFB1B8;
+    --bgcolor: #F5F5F5;
+    --bgcolor-2: #2F303A;
+    --bgcolor-3: #C4C4C4;
+    --blue: #2196F3;
+    --blue2: #188CE8;
+    --black: #000000;
+    --black2: #212121; */
+    
+
+    --primary-color: #FFFFFF;
+    --secondary-color: #F5F4FA;
+    --third-color: #757575;
+    --bg-color: #F5F5F5;
+    --footer-color: #2F303A;
+    --hero-color: #2F303A;
+    --accent-color: #2196F3;
+    --accent-color-batton: #188CE8;
+    --button-color: #2196F3;
+    --filter-button-color: #F5F4FA;
+    --primary-text-color: #757575;
+    --secondary-text-color: #212121;
+    --haeder-logo-text-color: #000000;
+    --footer-cont-text-color: rgba(255, 255, 255, 0.6);
+    --accent-text-color: #2196F3;
+    
+    --line-color: #ECECEC;
+    --border-color: #EEEEEE;
+    --border-clients-color: #AFB1B8;;
+    --clients-link-color: #AFB1B8;
+    
+    --bg-overlay-color: rgba(47, 48, 58, 0.4);
+    --hero-bg-color: #C4C4C4;
+}
