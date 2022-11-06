@@ -42,3 +42,35 @@
     --bg-overlay-color: rgba(47, 48, 58, 0.4);
     --hero-bg-color: #C4C4C4;
 }
+
+    /* WEBstudio */
+
+.wrapper {
+    max-width: 1170px;
+    margin: 0 auto;
+    background-color: var(--primary-color);
+}
+
+body {
+    background: var(--secondary-color);
+    margin: 0 auto;
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    color: var(--primary-text-color);
+}
+
+    /* HEADER */
+
+.logo {
+    color: var(--accent-text-color);
+}
+.logo-studio {
+    color: var(--haeder-logo-text-color);
+}
+.nav-item {
+    color: var(--secondary-text-color);
+}
+    /* FOOTER */
+
+.footer .logo-studio {
+    color: var(--primary-color);
+}
